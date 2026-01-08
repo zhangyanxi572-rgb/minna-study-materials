@@ -1,0 +1,16 @@
+# Ignore generated dictionary and audio files
+*.ifo
+*.idx
+*.dict
+*.dict.dz
+*.tar.bz2
+*.mp3
+*.flac
+*.wav
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local config
+.env
